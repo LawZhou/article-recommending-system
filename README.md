@@ -1,2 +1,2 @@
-#Article-recommending-system
+# Article-recommending-system
 Article recommending system is a system that makes use of natural language processing and unsupervised k-nearest neighbour to recommend k most relevant articles by papers' title and abstract. It does the task by vectorizing the provided paper's text and using knn to match the "closest" to the provided paper in the database. Besides, the system provides a filter function that accurates to the month to filter out the paper earlier than the specified year and month.
